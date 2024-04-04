@@ -1,0 +1,30 @@
+body{
+	background-image: url("wy.png");
+	font-size: 25px;
+	color: white;
+}
+.Nag{
+	background-image: url("Baner.png");
+	width: 100%;
+	height: 100%;
+	z-index: 12;
+}
+.Menu{
+	height: 90%;
+	width: 65%;
+	background-color: cyan;
+	float: left;
+}
+.Menu2{
+	height: 10%;
+	width: 35%;
+	float: left;
+	background-color: lightgrey;
+}
+.stopka{
+	width: 100%;
+	height: 35%;
+	margin-top: 45%;
+	background-color: lightgrey;
+	font-size: 35px;
+}
